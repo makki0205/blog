@@ -1,0 +1,9 @@
+package: github.com/makki0205/blog
+import:
+- package: github.com/gin-gonic/gin
+- package: github.com/go-sql-driver/mysql
+- package: github.com/go-xorm/xorm
+- package: github.com/itsjamie/gin-cors
+- package: github.com/rubenv/sql-migrate/...
+- package: gopkg.in/appleboy/gin-jwt.v2
+- package: gopkg.in/dgrijalva/jwt-go.v3

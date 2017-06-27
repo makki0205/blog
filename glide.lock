@@ -1,0 +1,49 @@
+hash: 1d5837b4472134c0a82416bbfab81cc7c7a9f21f7f56d63783256512e3e3a9a3
+updated: 2017-06-27T01:09:34.976181176+09:00
+imports:
+- name: github.com/gin-gonic/gin
+  version: d5b353c5d5a560322e6d96121c814115562501f7
+  subpackages:
+  - binding
+  - render
+- name: github.com/go-sql-driver/mysql
+  version: a197e5d40516f2e9f74dcee085a5f2d4604e94df
+- name: github.com/go-xorm/builder
+  version: c8871c857d2555fbfbd8524f895be5386d3d8836
+- name: github.com/go-xorm/core
+  version: e9b7412d750de4920b1c7b3ede5a98fd76d38308
+- name: github.com/go-xorm/xorm
+  version: 32d688fd965efb2a6c9fbce8a4e36708731e1f80
+- name: github.com/golang/protobuf
+  version: 2402d76f3d41f928c7902a765dfc872356dd3aad
+  subpackages:
+  - proto
+- name: github.com/itsjamie/gin-cors
+  version: 97b4a9da79331dfa2b6d35f4cdd1e50f5148859c
+- name: github.com/manucorporat/sse
+  version: ee05b128a739a0fb76c7ebd3ae4810c1de808d6d
+- name: github.com/mattn/go-isatty
+  version: 30a891c33c7cde7b02a981314b4228ec99380cca
+- name: github.com/pkg/errors
+  version: c605e284fe17294bda444b34710735b29d1a9d90
+- name: github.com/rubenv/sql-migrate
+  version: 72a5478faa469f9023cc1802367cddfc5270acbb
+  subpackages:
+  - '...'
+- name: golang.org/x/net
+  version: f315505cf3349909cdf013ea56690da34e96a451
+  subpackages:
+  - context
+- name: golang.org/x/sys
+  version: 30237cf4eefd639b184d1f2cb77a581ea0be8947
+  subpackages:
+  - unix
+- name: gopkg.in/appleboy/gin-jwt.v2
+  version: f7347d7c16fc8297bf5b7215b9e4847a5ca05d90
+- name: gopkg.in/dgrijalva/jwt-go.v3
+  version: d2709f9f1f31ebcda9651b03077758c1f3a0018c
+- name: gopkg.in/go-playground/validator.v8
+  version: c193cecd124b5cc722d7ee5538e945bdb3348435
+- name: gopkg.in/yaml.v2
+  version: cd8b52f8269e0feb286dfeef29f8fe4d5b397e0b
+testImports: []

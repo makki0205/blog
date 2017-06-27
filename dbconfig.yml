@@ -1,0 +1,4 @@
+development:
+  dialect: mysql
+  datasource: root:@tcp(127.0.0.1:3306)/test_gin?parseTime=true
+  dir: migration # ディレクトリを作っておく必要がある
